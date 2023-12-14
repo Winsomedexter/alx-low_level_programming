@@ -10,6 +10,7 @@
 int main(void)
 
 {
-	 puts("\"Programming is lke building a multilingual puzzle");
-	 return (0);
+       	puts("\"Programming is lke building a multilingual puzzle");      
+	return (0);
+
 }
